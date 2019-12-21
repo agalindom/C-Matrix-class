@@ -1,0 +1,12 @@
+# MacOS
+/.DS_Store
+
+# any data
+/**.csv
+/**.pickle
+/**.pkl
+/**.json
+
+#cpp data
+/**.h.gch
+/**.out
